@@ -26795,6 +26795,7 @@ article .h1, article .h2, article .h3, article .h4, article .h5, article .h6 {
   resize: none !important;
   position: absolute;
   top: 0;
+  background-color: #DED8B1;
   left: 0;
   bottom: 0;
   right: 0;
