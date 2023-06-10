@@ -4599,33 +4599,33 @@ textarea.form-control-lg {
 
 .btn-success {
   color: #1F2937;
-  background-color: #10B981;
-  border-color: #10B981;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(17, 24, 39, 0.075);
 }
 .btn-success:hover {
   color: #1F2937;
-  background-color: #34c494;
-  border-color: #28c08e;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
 }
 .btn-check:focus + .btn-success, .btn-success:focus {
   color: #1F2937;
-  background-color: #34c494;
-  border-color: #28c08e;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(17, 24, 39, 0.075), 0 0 0 0.18rem rgba(18, 163, 118, 0.5);
 }
 .btn-check:checked + .btn-success, .btn-check:active + .btn-success, .btn-success:active, .btn-success.active, .show > .btn-success.dropdown-toggle {
   color: #1F2937;
-  background-color: #40c79a;
-  border-color: #28c08e;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
 }
 .btn-check:checked + .btn-success:focus, .btn-check:active + .btn-success:focus, .btn-success:active:focus, .btn-success.active:focus, .show > .btn-success.dropdown-toggle:focus {
   box-shadow: inset 0 3px 5px rgba(17, 24, 39, 0.125), 0 0 0 0.18rem rgba(18, 163, 118, 0.5);
 }
 .btn-success:disabled, .btn-success.disabled {
   color: #1F2937;
-  background-color: #10B981;
-  border-color: #10B981;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
 }
 
 .btn-info {
@@ -5637,8 +5637,8 @@ textarea.form-control-lg {
 }
 
 .btn-outline-gray-600 {
-  color: #4B5563;
-  border-color: #4B5563;
+  color: #DED8B1;
+  border-color: #DED8B1;
 }
 .btn-outline-gray-600:hover {
   color: #ffffff;
@@ -6930,10 +6930,7 @@ textarea.form-control-lg {
 .card-group > .card:not(:last-child) .card-footer {
     border-bottom-right-radius: 0;
   }
-  .card-group > .card:not(:first-child) {
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-  }
+
   .card-group > .card:not(:first-child) .card-img-top,
 .card-group > .card:not(:first-child) .card-header {
     border-top-left-radius: 0;
@@ -21565,7 +21562,7 @@ textarea.form-control-lg {
 }
 
 .navbar-theme-primary:not(.headroom) {
-  background-color: #1F2937;
+  background-color: #DED8B1;
 }
 
 /**
@@ -24220,6 +24217,7 @@ label {
 }
 .icon.icon-xs {
   height: 1.25rem;
+  color: black;
 }
 .icon.icon-sm {
   height: 1.5rem;
