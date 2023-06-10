@@ -4506,33 +4506,33 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #000000;
-  background-color: #B38B5A;
-  border-color: #B38B5A;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(17, 24, 39, 0.075);
 }
 .btn-primary:hover {
   color: #000000;
-  background-color: #B38B5A;
-  border-color: #B38B5A;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #000000;
-  background-color: #B38B5A;
-  border-color: #B38B5A;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(17, 24, 39, 0.075), 0 0 0 0.18rem rgba(65, 73, 85, 0.5);
 }
 .btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
   color: #000000;
-  background-color: #B38B5A;
-  border-color: #B38B5A;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
 }
 .btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: inset 0 3px 5px rgba(17, 24, 39, 0.125), 0 0 0 0.18rem rgba(65, 73, 85, 0.5);
 }
 .btn-primary:disabled, .btn-primary.disabled {
   color: #000000;
-  background-color: #B38B5A;
-  border-color: #B38B5A;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
 }
 
 .btn-secondary {
@@ -21865,8 +21865,9 @@ textarea.form-control-lg {
   margin-bottom: 0.2rem;
 }
 .sidebar .nav-item.active > .nav-link {
-  color: #F2F4F6;
-  background-color: #374151;
+  color: #113E21;
+  background-color: #DED8B1;
+  text-decoration: underline;
 }
 .sidebar .nav-item .nav-link {
   color: #ffffff;
@@ -21874,7 +21875,7 @@ textarea.form-control-lg {
 }
 .sidebar .nav-item .nav-link:hover {
   color: black;
-  background-color: #B38B5A;
+  background-color: #DED8B1;
 }
 .sidebar .nav-link + .multi-level {
   margin-top: 0.2rem;
@@ -22785,8 +22786,8 @@ label {
 }
 
 .btn-primary:hover {
-  background-color: #B38B5A;
-  border-color: #B38B5A;
+  background-color: #DED8B1;
+  border-color: #DED8B1;
 }
 
 .btn-secondary:hover {
