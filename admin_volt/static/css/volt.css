@@ -21873,8 +21873,8 @@ textarea.form-control-lg {
   cursor: pointer;
 }
 .sidebar .nav-item .nav-link:hover {
-  color: #F2F4F6;
-  background-color: #374151;
+  color: black;
+  background-color: #B38B5A;
 }
 .sidebar .nav-link + .multi-level {
   margin-top: 0.2rem;
