@@ -21907,6 +21907,7 @@ textarea.form-control-lg {
 .sidebar .badge,
 .sidebar .notification-count {
   opacity: 1;
+  color: black
 }
 .sidebar .sidebar-text-contracted {
   display: none;
@@ -26777,6 +26778,7 @@ article .h1, article .h2, article .h3, article .h4, article .h5, article .h6 {
   position: absolute;
   overflow: hidden;
   padding: 0;
+  background-color:"#DED8D1";
   margin: 0;
   left: 0;
   top: 0;

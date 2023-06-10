@@ -21,8 +21,7 @@
             <div class="text-center text-md-center mb-4 mt-md-0">
               <div class="avatar avatar-lg mx-auto mb-3"><img class="rounded-circle" alt="Image placeholder"
                   src="{% static 'assets/img/team/profile-picture-3.jpg' %}"></div>
-              <h1 class="h3">Bonnie Green</h1>
-              <p class="text-gray">Better to be safe than sorry.</p>
+              <h1 class="h3">{% firstof user.get_short_name user.get_username %}</h1>
             </div>
             <form class="mt-5">
               <!-- Form -->
